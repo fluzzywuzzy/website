@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>Under construction</h1>
+<p>Want to get in touch with me? Send me an email! <a href="mailto:vnl@kth.se">vnl@kth.se</a></p>
