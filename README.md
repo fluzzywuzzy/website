@@ -1,38 +1,19 @@
-# sv
+# Personal website
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+This is my personal website, a digital CV. I strive for it to be as up to date as possible.
 
-## Creating a project
+You can reach it here: [vincentlundstrom.com](https://vincentlundstrom.com)
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
+For a more formal, less detailed, but definetely up to date version, visit my [LinkedIn](https://linkedin.com/in/vincent-lundstrom).
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've cloned the project, you need to install dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
 ```bash
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
+## Deploying
 
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Changes commited to the `prod` branch will be automatically built and set live on digital ocean.
